@@ -1,0 +1,16 @@
+body{
+    height: 100vh;
+    background-color: #121212;
+}
+
+#clock{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: blueviolet;
+    font-size: 100px;
+    text-align: center;
+    padding: 40px 0 40px 0;
+}
+.watch{
+    display: flex;
+    justify-content: center;
+}
